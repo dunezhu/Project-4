@@ -1,2 +1,1 @@
-# Project-4
-Word Edit
+This file should be imported and executed in Google Colab.
